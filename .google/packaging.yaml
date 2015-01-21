@@ -9,4 +9,9 @@ categories:   [UI]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-BasicImmersiveMode
+level:        INTERMEDIATE
+icon:         screenshots/big_icon.png
+apiRefs:
+    - android:android.view.View
+    - android:android.view.View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY
 license: apache2
